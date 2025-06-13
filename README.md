@@ -13,4 +13,4 @@ BNB, Solana, Sui integration
 
 ### GameFi + AI
 
-    - Level enchanging
+    - Level enhancing
